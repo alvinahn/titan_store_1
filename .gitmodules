@@ -1,0 +1,3 @@
+[submodule "section_library"]
+	path = sections
+	url = https://github.com/alvinahn/section_library
